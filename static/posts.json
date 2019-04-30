@@ -1,0 +1,183 @@
+[{
+    "datatype":"基础档案",
+    "typeList":
+        [
+            {
+                "datatype":"台区-专变",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"用户",
+                "num":"55条"
+                
+            }
+            , 
+            {
+                "datatype":"终端",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"电能表",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"SIM卡",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"采集器",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"载波模块",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"档案关系",
+                "num":"55条"
+                
+            }                       
+        ]
+    
+},
+{
+    "datatype":"参数信息",
+    "typeList":
+        [
+            {
+                "datatype":"上行通讯参数",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"上行通讯参数",
+                "num":"55条"
+                
+            }           
+        ]
+    
+},
+{
+    "datatype":"运行数据",
+    "typeList":
+        [
+            {
+                "datatype":"拉合闸记录",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"终端历史运行工况",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"采集成功率",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"采集及时率",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"终端在线率",
+                "num":"55条"
+                
+            }
+            
+        ]
+    
+},
+{
+    "datatype":"事件数据",
+    "typeList":
+        [
+            {
+                "datatype":"电表过流事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"复核开关误动事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"终端停上电事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"其他事件",
+                "num":"55条"
+                
+            }
+            
+        ]
+    
+},
+{
+    "datatype":"事件数据",
+    "typeList":
+        [
+            {
+                "datatype":"电表过流事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"复核开关误动事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"终端停上电事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"其他事件",
+                "num":"55条"
+                
+            }
+            
+        ]
+    
+},
+{
+    "datatype":"事件数据",
+    "typeList":
+        [
+            {
+                "datatype":"电表过流事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"复核开关误动事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"终端停上电事件",
+                "num":"55条"
+                
+            }, 
+            {
+                "datatype":"其他事件",
+                "num":"55条"
+                
+            }
+            
+        ]
+    
+}
+]
